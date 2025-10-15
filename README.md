@@ -21,7 +21,9 @@ Upon publication, further details will be provided regarding:
 - Evaluation metrics  
 - Statistical interpretation of the results
 
-![Feature Mapping](assets/Sepsis.svg)
+<p align="center">
+  <img src="Sepsis.svg" alt="Feature Mapping" width="700">
+</p>
 
 ---
 
