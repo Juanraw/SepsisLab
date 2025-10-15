@@ -19,7 +19,9 @@ Upon publication, further details will be provided regarding:
 - Model training and validation procedures  
 - Hyperparameter optimization  
 - Evaluation metrics  
-- Statistical interpretation of the results  
+- Statistical interpretation of the results
+
+![Feature Mapping](assets/Sepsis.svg)
 
 ---
 
