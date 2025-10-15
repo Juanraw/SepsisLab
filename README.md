@@ -31,9 +31,3 @@ Upon publication, further details will be provided regarding:
 | File | Description |
 |------|--------------|
 | `Features_sepsis.ipynb` | Notebook containing data preprocessing, feature extraction, and feature space mapping used for the sepsis prediction framework. |
-
----
-
-## 📄 Citation
-If you reference or discuss this project, please cite it as:  
-> Ramírez, J. (2025). *Sepsis Prediction Project using Machine Learning Models*. GitHub Repository.
